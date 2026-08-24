@@ -17,5 +17,6 @@ Vi lascio il link qui sotto, insieme a un breve video che ho realizzato a riguar
 Grazie di cuore a chi lo farà!! <3
 
 Link Atomm: https://www.atomm.com/@mircartigianato?utm_source=copylinkvideo&utm_medium=referral&utm_campaign=sharetoearnvideo&utm_id=1111967
+
 Video: https://vm.tiktok.com/ZN8NSMJ32/
 
