@@ -12,8 +12,8 @@ Gli altri sono "opzionali". Dentro "EXTRA" sono riportate di nuovo le dispense m
 ⚠️ VI CHIEDO UN FAVORE: ⚠️
 
 Ho un profilo da maker su "Atomm", una piattaforma dedicata alla condivisione di file per taglio e incisione laser.
-Avrei un piccolo favore da chiedervi: potreste creare un account gratuito tramite il mio link referral? Niente di più, a voi non costa nulla, ma permette a me di ricevere un po' di punti sfruttabili sulla piattaforma.
-Vi lascio il link qui sotto, insieme a un breve video che ho realizzato a riguardo.
+Avrei un piccolo favore da chiederti: se ti sono stato utile, potresti perfavore creare un account Atomm gratuito tramite il mio link referral? Niente di più, non costa nulla, ma permette a me di ricevere un po' di punti sfruttabili sulla piattaforma.
+Ti lascio il link qui sotto, insieme a un breve video che ho realizzato a riguardo.
 Grazie di cuore a chi lo farà!! <3
 
 Link Atomm: https://www.atomm.com/@mircartigianato?utm_source=copylinkvideo&utm_medium=referral&utm_campaign=sharetoearnvideo&utm_id=1111967
