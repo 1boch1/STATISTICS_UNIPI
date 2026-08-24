@@ -4,7 +4,7 @@ Appunti relativi al corso di statistica del Prof. Maurelli @ UniPi - 2026.
 Ho realizzato questi appunti seguendo le lezioni del Prof. Maurelli, integrando gli argomenti trattati in aula con libri e dispense. Tutti i concetti sono stati arricchiti con esercizi e ragionamenti, per la stesura in LaTeX mi sono fatto supportare dall'AI.
 
 I file indispensabili sono: 
-- DISPENSA_PRINCIPALE 
+- DISPENSA_PRINCIPALE (è divisa in 2 parti! scorrendo si arriva al secondo indice)
 - SURVIVAL_KIT (utile per l'esame) 
 
 Gli altri sono "opzionali". Dentro "EXTRA" sono riportate di nuovo le dispense ma con alcune integrazioni e spiegazioni, se ci dovesse essere un concetto che non capite dalla dispensa, provate a guardare anche lì. 
